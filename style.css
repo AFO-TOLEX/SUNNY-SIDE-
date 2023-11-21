@@ -1,0 +1,676 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(248, 244, 244);
+}
+.head{
+    display: flex;
+    margin-top: 15px;
+    color: white;
+    gap: 130px;
+    margin-left: 23px;
+}
+.pic{
+    background-image: url(./images/desktop/kk.jpg);
+    background-repeat: no-repeat;
+    margin-top: -12px;
+    margin-left: 130px;
+    width: 80%;
+    height: 414px;
+
+}
+ul{
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+    margin-left: 440px;
+}
+li{
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+    font-size: 14px;
+    font-family: sans-serif;
+    color: white;
+}
+a:hover{
+    color: darkgreen;
+}
+.head button:hover{
+    border-radius: 18px;
+    width: 80px;
+    border: none;
+    background-color: lavender;
+}
+.head button{
+    border-radius: 18px;
+    height: 27px;
+    width: 80px;
+    border: none;
+    background-color: #fff;
+    color: black;
+    font-weight: bold;
+    font-size: 10PX;
+    margin-top: 17PX;
+    margin-left: -96px;
+}
+.head p{
+    font-weight: bolder;
+    font-size: 19px;
+    font-family: sans-serif;
+}
+.txt{
+    margin-left: 340px;
+}
+.txt p{
+    color: white;
+    font-size: 35px;
+    font-family: initial,monospace;
+    letter-spacing: 5px;
+
+}
+.po1{
+    margin-left: 220px;
+    margin-top:-290px;
+}
+.org{
+    width: 420px;
+    margin-left: 19px;
+}
+.po1 img{
+    width: 20px;
+}
+.poi article{
+    font-weight: 00;
+    font-size: 900px;
+}
+.txt img{
+    margin-top: 60px;
+}
+.flex1{
+    display: flex;
+    margin-left: 130px;
+}
+.trans{
+    width: 532px;
+    height: 400px;
+    background-color: white;
+}
+.egg img{
+    width: 533px;
+    height: 400px;
+}
+.trans p{
+    margin-left: 80px;
+    font-weight: 1000;
+    font-size: 25px;
+    font-family: sans-serif,courier;
+    letter-spacing: -0.5px;
+    margin-top: 110px;
+    line-height: 32px;
+}
+.trans  article{
+    margin-left: 80px;
+    font-size: 15px;
+    margin-top: -1px;
+    color: rgb(112, 107, 107);
+    font-family: sans-serif;
+    margin-bottom: 30px;
+    line-height: 25px;
+}
+.trans span{
+    margin-left: 80px;
+    font-weight: 800;
+    font-size: 13px;
+    font-family: sans-serif;
+    letter-spacing: -0.5px;   
+    text-decoration: underline yellow;
+}
+.nil{
+    margin-left: 80px;
+    font-weight: 800;
+    font-size: 13px;
+    font-family: sans-serif;
+    letter-spacing: -0.5px;   
+    text-decoration: underline pink;
+}
+.photo{
+    width: 533px;
+    height: 400px;
+}
+.flex2{
+    display: flex;
+    margin-left: 130px;   
+}
+.eg{
+    background-image: url(./images/desktop/image-graphic-design.jpg);
+    width: 532px;
+    margin-top: -5px;
+}
+.eg p{
+    margin-top: 300px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.eg article{
+    text-align: center;
+    margin-top: -12px;
+    font-size: 14px;
+}
+.poi{
+    background-image: url(./images/desktop/image-photography.jpg);
+    width: 532px;
+    margin-top: -5px;
+    height: 430px;
+}
+.poi p{
+    margin-top: 300px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+}
+.poi article{
+    text-align: center;
+    margin-top: -12px;
+    font-size: 14px;
+}
+.prank{
+    background-color: rgb(255, 249, 249);
+    height: 430px;
+    width: 1064px;
+    margin-left: 130px;
+}
+.pra{
+    margin-top: -17px;
+}
+.pra p{
+    padding-top: 70px;
+    margin-left: 420px;
+    color: rgb(112, 107, 107);
+    font-family: sans-serif;
+    letter-spacing: 5px;
+    font-size: 14px;
+}
+.lom{
+    margin-left: -17px;
+}
+.lomm{
+    margin-left: 7px;
+}
+.lib{
+    display:flex;
+    gap: 190px;
+}
+.lib{
+    margin-left: 165px;
+    margin-top: 40px;
+}
+.lib img{
+    border-radius: 72px;
+    width: 40px;
+}
+.test1{
+    display: flex;
+    gap: 70px;
+    margin-left: 120px;
+}
+.fix p{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 32px;
+    line-height: 20px;
+    font-family: sans-serif;
+    color: rgb(107, 102, 102);
+    margin-left: -90px;
+    width: 240px;
+
+}
+.t
+.ki{
+    margin-left: 30px;
+}
+.k{
+    margin-left: 12px;
+}
+.two{
+    margin-left: 80px;
+    gap: 260px;
+    display: flex;
+}
+.testers{
+    display: flex;
+    gap: 240px;
+    margin-left: 200px;
+}
+.fix article{
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.fix span{
+    color: rgb(107, 102, 102);
+    font-size: 10px;
+    text-align: center;
+    margin-top: -16px;
+    margin-left: -8px;
+}
+.six article{
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.c{
+    display: flex;
+    margin-left: 131px;
+}
+.c img{
+    width: 265px;
+}
+
+.fo a{
+    color: hsl(180, 19%, 23%);
+    padding-top: -100px;
+    margin-left: 17px;
+    
+}
+.fo{
+    display: flex;
+    margin-left: -540PX;
+}
+.footer{
+    background-color: hsl(168, 34%, 41%);
+    margin-top: -16px;
+    width: 1060px;
+    margin-left: 131px;
+    height: 200px;
+}
+.foot{
+    margin-left: 500px;
+    padding-top: 30px;
+
+}
+.foot p{
+    font-weight: 900;
+    font-size: 17px;
+    font-family: sans-serif;
+    color: hsl(180, 19%, 23%);
+}
+.til{
+    margin-top:-20px;
+}
+.til img{
+    margin-top:19px;
+    margin-left: -8px;
+}
+.logs{
+    display: flex;
+    gap: 26px;
+}
+.fo ul{
+    display: flex;
+    gap: 10px;
+}
+@media(max-width:760px){
+body{
+    /* background-color:black; */
+    border: 1px solid  black;
+    margin-top: -10px;
+}
+ .pic{
+     background-image: url(./images/mobile/image-header.jpg);
+     margin-left: -10px;
+     margin-top: -15px;
+     width: 484px;
+     height: 470px;
+ }
+ .txt img{
+     margin-left: -36px;
+     margin-top: -50px;
+     width: 480px;
+ }
+ .head button{
+    border-radius: 18px;
+    height: 0px;
+    width: 0px;
+    border: none;
+    background-color: #fff;
+    color: black;
+    font-weight: bold;
+    font-size: 10PX;
+    margin-top: 17PX;
+    margin-left: -96px;
+}    
+.head{
+    display: flex;
+    margin-top: 15px;
+    color: white;
+    gap: 130px;
+    margin-left: 23px;
+}
+
+ul{
+    display: block;
+    gap: 30px;
+    margin-top: 20px;
+    margin-left: -470px;
+}
+li{
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+    font-size: 14px;
+    font-family: sans-serif;
+    color: white;
+}
+a:hover{
+    color: darkgreen;
+}
+.head button:hover{
+    border-radius: 18px;
+    width: 80px;
+    border: none;
+    background-color: lavender;
+}
+.head button{
+    border-radius: 18px;
+    height: 27px;
+    width: 80px;
+    border: none;
+    background-color: #fff;
+    color: black;
+    font-weight: bold;
+    font-size: 10PX;
+    margin-top: 17PX;
+    margin-left: -96px;
+}
+.head p{
+    font-weight: bolder;
+    font-size: 19px;
+    font-family: sans-serif;
+}
+.txt{
+    margin-left: 40px;
+}
+.txt p{
+    color: white;
+    font-size: 35px;
+    font-family: initial,monospace;
+    letter-spacing: 5px;
+    width: px;
+
+}
+.po1{
+    margin-left: 230px;
+    margin-top:-320px;
+}
+.org{
+    width: 420px;
+    margin-left: 19px;
+}
+.po1 img{
+    width: 25px;
+}
+.poi article{
+    font-weight: 00;
+    font-size: 900px;
+}
+.txt img{
+    margin-top: 60px;
+}
+.flex1{
+    flex-direction: column;
+    margin-left: -10px;
+   
+}
+.flex1 img{
+    order: 1;
+    
+}
+.egg{
+    order: 1;
+}
+
+.trans{
+    width: 487px;
+    height: 290px;
+    background-color: white;
+    margin-left: -5px;
+    order: 2;
+    padding-top: 100px;
+    margin-top: -5px;
+}
+.egg img{
+    width: 483px;
+    height: 360px;
+}
+.trans p{
+    margin-left: 0px;
+    font-weight: 1000;
+    font-size: 25px;
+    font-family: sans-serif,courier;
+    letter-spacing: -0.5px;
+    margin-top: -15px;
+    line-height: 32px;
+    text-align: center;
+}
+.trans  article{
+    margin-left: 0px;
+    font-size: 17px;
+    margin-top: -1px;
+    color: rgb(112, 107, 107);
+    font-family: sans-serif;
+    margin-bottom: 30px;
+    line-height: 25px;
+    text-align: center;
+}
+.trans span{
+    margin-left: 200px;
+    font-weight: 800;
+    font-size: 13px;
+    font-family: sans-serif;
+    letter-spacing: -0.5px;   
+    text-decoration: underline yellow;
+}
+.nil{
+    margin-left: 200px;
+    font-weight: 800;
+    font-size: 13px;
+    font-family: sans-serif;
+    letter-spacing: -0.5px;   
+    text-decoration: underline pink;
+}
+.photo{
+    width: 533px;
+    height: 400px;
+}
+.flex2{
+    flex-direction: column;
+    margin-left:-8px;   
+}
+.eg{
+}
+.eg{
+    background-image: url(./images/mobile/image-graphic-design.jpg);
+   background-repeat: no-repeat;
+    height: 430px;
+    background-size:  500px;
+    margin-top: 0px;
+    margin-left: -19px;
+
+}
+.eg{
+    padding-top: 100px;
+}
+.eg p{
+    margin-top: 300px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+.eg article{
+    text-align: center;
+    margin-top: -12px;
+    font-size: 17px;
+}
+.poi{
+    background-image: url(./images/mobile/image-photography.jpg);
+   background-repeat: no-repeat;
+    height: 430px;
+    background-size:  500px;
+    margin-top: 0px;
+    margin-left: -19px;
+    padding-top: 120px;
+}
+.poi p{
+    margin-top: 300px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+}
+.poi article{
+    text-align: center;
+    margin-top: -12px;
+    font-size: 17px;
+}
+.prank{
+    background-color: rgb(255, 249, 249);
+    height: 790px;
+    width: 479px;
+    margin-left: -6px;
+
+
+
+}
+.fix{
+    margin-bottom: -160px;
+}
+.fix p{
+}
+.pra{
+    margin-top: -17px;
+}
+.pra p{
+    padding-top: 70px;
+    color: rgb(112, 107, 107);
+    font-family: sans-serif;
+    letter-spacing: 5px;
+    font-size: 14px;
+    margin-left: 130px;
+}
+.lib{
+    flex-direction: column;
+}
+.lib{
+    margin-left: 205px;
+    margin-top: 40px;
+}
+.lib img{
+    border-radius: 72px;
+    width: 40px;
+}
+.test1{
+    display: flex;
+    gap: 70px;
+    margin-left: 120px;
+}
+.test1 p{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 32px;
+    line-height: 20px;
+    font-family: sans-serif;
+    color: rgb(107, 102, 102);
+
+}
+.t
+.ki{
+    margin-left: 30px;
+}
+.k{
+    margin-left: 12px;
+}
+.two{
+    margin-left: 80px;
+    gap: 260px;
+    display: flex;
+}
+.testers{
+    display: flex;
+    gap: 240px;
+    margin-left: 200px;
+}
+.each p{
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.each article{
+    color: rgb(107, 102, 102);
+    font-size: 10px;
+    text-align: center;
+    margin-top: -16px;
+    margin-left: -8px;
+}
+.c{
+    display: flex;
+    margin-left: -8px;
+}
+.c img{
+    width: 120px;
+}
+
+.fo a{
+    color: hsl(180, 19%, 23%);
+    padding-top: 0px;
+    margin-left: 17px;
+    
+}
+.fo{
+    display: flex;
+    margin-left: 0PX;
+}
+.footer{
+    background-color: hsl(168, 34%, 41%);
+    margin-top: -16px;
+    width: 482px;
+    margin-left:-10px;
+    height: 180px;
+}
+.foot{
+    padding-top: 30px;
+
+}
+.foot p{
+    font-weight: 900;
+    font-size: 17px;
+    font-family: sans-serif;
+    color: hsl(180, 19%, 23%);
+    margin-left: -300px;
+    margin-bottom: 35px;
+}
+.tho{
+    margin-top: -20px;
+}
+.til{
+    margin-top:-40px;
+    margin-left: -310px;
+}
+.til img{
+    margin-top:19px;
+    margin-left: -8px;
+}
+.logs{
+    display: flex;
+    gap: 26px;
+}
+.fo ul{
+    display: flex;
+    gap: 10px;
+    margin-left: -90px;
+}
+}
